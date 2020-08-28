@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InputOutput</string>
+    <string name="enter">Enter</string>
+    <string name="hint">enter your name...</string>
+</resources>
